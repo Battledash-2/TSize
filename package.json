@@ -1,0 +1,30 @@
+{
+  "name": "tsize",
+  "version": "1.0.0",
+  "description": " Efficiently get the terminal size. (Info: if the terminal size is not available, it will assume the terminal is 'read-only' and give Infinity)",
+  "readme": "README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Battledash-2/TSize.git"
+  },
+  "keywords": [
+    "terminal",
+    "size",
+    "s",
+    "t",
+    "tty",
+    "input",
+    "output",
+    "io"
+  ],
+  "author": "Battledash-2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Battledash-2/TSize/issues"
+  },
+  "homepage": "https://github.com/Battledash-2/TSize#readme"
+}
