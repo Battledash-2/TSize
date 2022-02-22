@@ -1,6 +1,6 @@
 {
   "name": "tsize",
-  "version": "1.0.1patch-2",
+  "version": "1.0.1patch-3",
   "description": " Efficiently get the terminal size. (Info: if the terminal size is not available, it will assume the terminal is 'read-only' and give Infinity)",
   "readme": "README.md",
   "main": "index.js",
@@ -20,7 +20,9 @@
     "tty",
     "input",
     "output",
-    "io"
+    "io",
+	"console",
+	"log"
   ],
   "author": "Battledash-2",
   "license": "MIT",
